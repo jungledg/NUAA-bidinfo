@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/jquery-migrate-1.2.1.min.js,WebRoot/jqvmap/maps/jquery.vmap.brazil.js,WebRoot/build/dist/echarts.js,WebRoot/build/dist/echarts-all.js,WebRoot/js/jquery-1.11.2.min.js
+validator.Unchecked=
